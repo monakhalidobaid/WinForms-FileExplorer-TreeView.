@@ -3,9 +3,11 @@
 Hey there! 👋 
 
 This is a fun side project I built while learning **C#**. 
+
+
 ---
 
-## 💡File Explorer Module Highlights
+## **💡File Explorer Module Highlights
 
 The File Explorer form simulates hierarchical directory management, combining C# control events with recursive data structure handling:
 
