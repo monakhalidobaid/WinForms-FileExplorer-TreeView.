@@ -14,6 +14,8 @@ The File Explorer form simulates hierarchical directory management, combining C#
 - **Safe Cascading Deletion:** Implements reverse array/collection iteration (`for` loops counting down) to delete multiple checked nodes safely without collection modification exceptions.
 - **Root Protection:** Business logic that protects root-level directories.
 
+## 📸 Preview
+<img src="treeView.png" width="700">
 ---
 
 ## 🛠️ How to run it
